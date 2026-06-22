@@ -1,4 +1,4 @@
-# Sanatized Product Management Work Samples Portfolio
+# Sanitized Product Management Work Samples Portfolio
 
 A curated portfolio of product management artifacts demonstrating strategy, discovery, execution, technical product thinking, stakeholder alignment, and measurable outcomes across cloud infrastructure, internal developer platforms, Kubernetes/CaaS, LBaaS, cloud migration, and AI-assisted workflows.
 
